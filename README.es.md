@@ -111,11 +111,11 @@
     </td>
   </tr>
   <tr>
-    <td>🖥️ VMachine</td>
-    <td>C</td>
-    <td><a href="#"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td>🐳 Inception</td>
+    <td>Docker / Bash</td>
+    <td><a href="https://github.com/Nachopuerto95/inception"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-       Introducción a la virtualización y administración de sistemas
+        Pequeña infraestructura desde cero con Docker: NGINX, WordPress + php-fpm, MariaDB y servicios bonus (Redis, FTP, Adminer, Portainer).
     </td>
   </tr>
   <tr>
@@ -123,7 +123,7 @@
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/ft_printf"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-        Réplica de la funcion "printf", con funciones variáticas adnministrando formatos buffers y diferentes tipos.
+        Réplica de la función <code>printf</code>, con argumentos variádicos, parseo de formatos y manejo de distintos tipos.
     </td>
   </tr>
   <tr>
@@ -131,7 +131,39 @@
     <td>C</td>
     <td><a href="https://github.com/Nachopuerto95/so_long"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>
-        Juego en 2D utilizando la librería gráfica minilibX y haciendo parsing del mapa con algorithmo Flood Fill.
+        Juego 2D con MiniLibX y parseo del mapa con algoritmo Flood Fill.
+    </td>
+  </tr>
+  <tr>
+    <td>🧱 Cub3D</td>
+    <td>C</td>
+    <td><a href="https://github.com/Nachopuerto95/cub3d"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td>
+        Motor 3D en primera persona con raycasting y el algoritmo DDA. Paredes texturizadas, suelo/techo y shading.
+    </td>
+  </tr>
+  <tr>
+    <td>💬 ft_irc</td>
+    <td>C++</td>
+    <td><a href="https://github.com/Nachopuerto95/ft_irc"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td>
+        Servidor IRC en C++98. Sockets no bloqueantes con <code>poll()</code>, multi-cliente, canales y comandos de operador.
+    </td>
+  </tr>
+  <tr>
+    <td>🔗 Pipex</td>
+    <td>C</td>
+    <td><a href="https://github.com/Nachopuerto95/pipex"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td>
+        Pipeline de shell recreada desde cero con <code>fork</code>, <code>execve</code>, <code>pipe</code> y <code>dup2</code>.
+    </td>
+  </tr>
+  <tr>
+    <td>🧠 Módulos C++</td>
+    <td>C++</td>
+    <td><a href="https://github.com/Nachopuerto95/cpp"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td>
+        Módulos cpp00–cpp08: de clases y sobrecarga de operadores a plantillas, excepciones y la STL, todo bajo C++98.
     </td>
   </tr>
    <tr>
@@ -145,6 +177,23 @@
 
 <br>
 
+## Gymtracker v2
+
+<table>
+  <tr>
+    <td>
+       <img src="assets/fittracker.gif" />
+    </td>
+    <td>
+        App de gimnasio con builder de rutinas drag-and-drop, tracking en sesión y calendario de histórico. Evolución de Fittracker. <br>
+      -------------------------------------------------------------<br>
+          <a href="https://github.com/Nachopuerto95/gymtrackerv2"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
+        <br><br><br>
+        <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,mongodb,tailwind,vite,docker" width="300" />
+    </td>
+  </tr>
+</table>
+
 ## Fittracker
 
 <table>
@@ -153,14 +202,31 @@
        <img src="assets/fittracker.gif" />
     </td>
     <td>
-        App para hacer un seguimiento del ejercicio e ingesta de calorías <br>
+        App para hacer un seguimiento del ejercicio e ingesta de calorías. <br>
       -------------------------------------------------------------<br>
-          <a href="https://github.com/Nachopuerto95/Fit_tracker_WEB"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
+          <a href="https://github.com/Nachopuerto95/Fittracker"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
           &nbsp;&nbsp;&nbsp;&nbsp;
           <a href="https://fit-tracker.fly.dev/login">
             <img src="https://custom-icon-badges.demolab.com/badge/LINK-6f42c1?logo=link&logoColor=fff" width="72" alt="Portfolio Badge" />
           </a><br><br><br><br><br>
         <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,mongodb,html,css,ps,ai" width="300" />
+    </td>
+  </tr>
+</table>
+
+## Portfolio 2025
+
+<table>
+  <tr>
+    <td>
+       <img src="assets/5387632.png" width="320" />
+    </td>
+    <td>
+        Mi portfolio personal de 2025. React 19 + Vite + Tailwind, fondo canvas interactivo y grid de proyectos leído desde JSON. <br>
+      -------------------------------------------------------------<br>
+          <a href="https://github.com/Nachopuerto95/portfolio2025"><img width="120" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
+        <br><br><br>
+        <img src="https://skillicons.dev/icons?i=git,react,vite,tailwind,js,html,css" width="250" />
     </td>
   </tr>
 </table>
