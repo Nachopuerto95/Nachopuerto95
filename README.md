@@ -1,11 +1,11 @@
 <!-- Hero banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=200&section=header&text=Nacho%20Puerto&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founding%20Fullstack%20%26%20AI%20Engineer&descAlignY=62&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=200&section=header&text=Nacho%20Puerto&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founding%20Fullstack%20%26%20AI%20Engineer&descAlignY=62&descSize=20" width="100%"/>
 </p>
 
 <!-- Language switcher -->
 <p align="center">
-  <a href="/README.es.md"><img src="https://img.shields.io/badge/🇪🇸_Español-6f42c1?style=for-the-badge" alt="Español"/></a>
+  <a href="/README.es.md"><img src="https://img.shields.io/badge/🇪🇸_Español-06b6d4?style=for-the-badge" alt="Español"/></a>
   &nbsp;
   <a href="/README.md"><img src="https://img.shields.io/badge/🇬🇧_English-24292e?style=for-the-badge" alt="English"/></a>
 </p>
@@ -13,14 +13,14 @@
 <!-- Typing role cycler -->
 <p align="center">
   <a href="https://github.com/Nachopuerto95">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6f42c1&center=true&vCenter=true&width=640&lines=Founding+Engineer+%40+Datista+Tech;Building+real-time+voice+AI+in+production;%231+of+my+42+Madrid+cohort;Fullstack+%E2%80%A2+AI+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+C%2B%2B" alt="Role cycler"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=06b6d4&center=true&vCenter=true&width=640&lines=Founding+Engineer+%40+Datista+Tech;Building+real-time+voice+AI+in+production;%231+of+my+42+Madrid+cohort;Fullstack+%E2%80%A2+AI+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+C%2B%2B" alt="Role cycler"/>
   </a>
 </p>
 
 <!-- Portfolio CTA -->
 <p align="center">
   <a href="https://nachopuertoportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/🪐%20Visit%20my%20portfolio-nachopuertoportfolio.netlify.app-6f42c1?style=for-the-badge" alt="Visit my portfolio"/>
+    <img src="https://img.shields.io/badge/🪐%20Visit%20my%20portfolio-nachopuertoportfolio.netlify.app-06b6d4?style=for-the-badge" alt="Visit my portfolio"/>
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=06b6d4&height=2" width="100%"/>
 </p>
 
 ## 🔭 Currently
@@ -54,7 +54,7 @@ Building **[Contestaria](#)** at **Datista Tech** as the founding engineer — a
 <!-- TODO: link Contestaria / Datista Tech — add public web URLs + GIFs once chosen -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=06b6d4&height=2" width="100%"/>
 </p>
 
 ## 🏆 Recognition
@@ -63,7 +63,7 @@ Building **[Contestaria](#)** at **Datista Tech** as the founding engineer — a
 - 🏆 **Fittracker** — selected to represent 42 Madrid at the **International HackShow**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=06b6d4&height=2" width="100%"/>
 </p>
 
 ## 🛠️ Skills
@@ -91,7 +91,7 @@ Building **[Contestaria](#)** at **Datista Tech** as the founding engineer — a
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=06b6d4&height=2" width="100%"/>
 </p>
 
 ## 🌟 Featured projects
@@ -107,7 +107,7 @@ Building **[Contestaria](#)** at **Datista Tech** as the founding engineer — a
       <strong>Stack:</strong> React · Vite · Node + Express · MongoDB · Fly.io
       <br><br>
       <a href="https://github.com/Nachopuerto95/Fittracker"><img src="https://img.shields.io/badge/View%20Repo-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
-      <a href="https://fit-tracker.fly.dev/login"><img src="https://img.shields.io/badge/Live%20app-6f42c1?style=for-the-badge&logo=flydotio&logoColor=white"/></a>
+      <a href="https://fit-tracker.fly.dev/login"><img src="https://img.shields.io/badge/Live%20app-06b6d4?style=for-the-badge&logo=flydotio&logoColor=white"/></a>
     </td>
   </tr>
 </table>
@@ -156,7 +156,7 @@ Building **[Contestaria](#)** at **Datista Tech** as the founding engineer — a
       <strong>Stack:</strong> Node · Express · MongoDB · Handlebars · Docker · Fly.io
       <br><br>
       <a href="https://github.com/Nachopuerto95/Reelations_WEB"><img src="https://img.shields.io/badge/View%20Repo-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
-      <a href="https://project-module2.fly.dev/"><img src="https://img.shields.io/badge/Live%20app-6f42c1?style=for-the-badge&logo=flydotio&logoColor=white"/></a>
+      <a href="https://project-module2.fly.dev/"><img src="https://img.shields.io/badge/Live%20app-06b6d4?style=for-the-badge&logo=flydotio&logoColor=white"/></a>
     </td>
   </tr>
 </table>
@@ -172,13 +172,13 @@ Building **[Contestaria](#)** at **Datista Tech** as the founding engineer — a
       <strong>Stack:</strong> HTML5 Canvas · Vanilla JS · Netlify
       <br><br>
       <a href="https://github.com/Nachopuerto95/2D_GAME_WEB"><img src="https://img.shields.io/badge/View%20Repo-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
-      <a href="https://adventure-forest-nachopuerto.netlify.app/"><img src="https://img.shields.io/badge/Play%20online-6f42c1?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+      <a href="https://adventure-forest-nachopuerto.netlify.app/"><img src="https://img.shields.io/badge/Play%20online-06b6d4?style=for-the-badge&logo=netlify&logoColor=white"/></a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=06b6d4&height=2" width="100%"/>
 </p>
 
 ## 📟 42 Madrid projects &nbsp;<sub><sup>Low-level · C · C++ · Shell · Docker</sup></sub>
@@ -265,7 +265,7 @@ Building **[Contestaria](#)** at **Datista Tech** as the founding engineer — a
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=06b6d4&height=120&section=footer" width="100%"/>
 </p>
 
 <p align="center">
