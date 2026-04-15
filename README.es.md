@@ -64,7 +64,7 @@ Desarrollando **[Contestaria](#)** en **Datista Tech** como primer ingeniero —
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,ts,react,nodejs,mongodb,tailwind,vite,docker,nginx,c,cpp,bash,git,github,linux,vim,figma&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,express,ts,react,nodejs,tailwind,vite,postgres,mongodb,redis,jest,docker,nginx,c,cpp,bash,git,github,linux,vim,figma&perline=11" />
   </a>
 </p>
 
@@ -76,34 +76,14 @@ Desarrollando **[Contestaria](#)** en **Datista Tech** como primer ingeniero —
   <img src="https://img.shields.io/badge/Loki-F5A623?style=flat&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white" />
   <img src="https://img.shields.io/badge/LiveKit-000000?style=flat&logo=livekit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeSWITCH-1A3868?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Handlebars.js-F0772B?style=flat&logo=handlebarsdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-764ABC?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fly.io-24175B?style=flat&logo=flydotio&logoColor=white" />
 </p>
-
-## 📚 Perfiles
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nachopuerto95&hide_border=true&show_icons=true&theme=react&bg_color=0D1117&icon_color=79ff97" alt="Stats de GitHub de Nacho Puerto" style="display:inline-block; margin-right:20px; width: 45%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachopuerto95&hide_border=true&bg_color=0D1117&layout=compact&theme=react" alt="Top Languages" style="display:inline-block; width: 35%;" />
-</p>
-
-<details>
-  <summary><img src="assets/42-logo.svg" width="20" /> &nbsp;Ver perfil de 42</summary>
-  <a href="https://github.com/oakoudad/badge42">
-    <br>
-    <img src="https://badge.mediaplus.ma/darkblue/jpuerto-?1337Badge=off&UM6P=off" />
-  </a>
-</details>
-<details>
-  <summary><img src="assets/LeetCode_Logo_1.png" width="20" /> &nbsp;Ver perfil de LeetCode</summary>
-  <a href="https://leetcode.com/u/nachopuerto95/">
-    <br>
-    <img src="https://leetcard.jacoblin.cool/Nachopuerto95?theme=nord" />
-  </a>
-</details>
-
-<br>
 
 ## 🌟 Proyectos destacados
 
@@ -142,24 +122,6 @@ Desarrollando **[Contestaria](#)** en **Datista Tech** como primer ingeniero —
       <strong>Stack:</strong> React 19 · TypeScript · Tailwind v4 · Zustand · @dnd-kit · Express · MongoDB · Fly.io (x2)
       <br><br>
       <a href="https://github.com/Nachopuerto95/gymtrackerv2"><img width="110" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
-    </td>
-  </tr>
-</table>
-
-### 💬 ft_irc &nbsp;<sub><sup>42 · proyecto en pareja</sup></sub>
-
-<table>
-  <tr>
-    <td width="45%">
-       <!-- TODO: añadir captura de dos clientes IRC charlando en un canal -->
-       <img src="https://img.shields.io/badge/demo-pr%C3%B3ximamente-lightgrey?style=for-the-badge" />
-    </td>
-    <td>
-      Servidor IRC escrito desde cero en C++98. Un único bucle de <code>poll()</code> gestionando muchos clientes a la vez, sockets no bloqueantes, handshake PASS/NICK/USER, canales, kicks e invitaciones. Hecho con <a href="https://github.com/madel-04">@madel-04</a>.
-      <br><br>
-      <strong>Stack:</strong> C++98 · POSIX sockets · <code>poll()</code>
-      <br><br>
-      <a href="https://github.com/Nachopuerto95/ft_irc"><img width="110" src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a>
     </td>
   </tr>
 </table>
@@ -235,12 +197,6 @@ Desarrollando **[Contestaria](#)** en **Datista Tech** como primer ingeniero —
     <th>ℹ️ Descripción</th>
   </tr>
   <tr>
-    <td>💾 Minishell</td>
-    <td>C</td>
-    <td><a href="https://github.com/jpuerto-loruzqui/42Minishell"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
-    <td>Shell personalizada implementada desde cero.</td>
-  </tr>
-  <tr>
     <td>💬 ft_irc</td>
     <td>C++</td>
     <td><a href="https://github.com/Nachopuerto95/ft_irc"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
@@ -253,16 +209,22 @@ Desarrollando **[Contestaria](#)** en **Datista Tech** como primer ingeniero —
     <td>Motor 3D en primera persona con raycasting + DDA.</td>
   </tr>
   <tr>
+    <td>🧠 Módulos C++</td>
+    <td>C++</td>
+    <td><a href="https://github.com/Nachopuerto95/cpp"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td>Módulos cpp00–cpp08: clases, sobrecarga de operadores, templates, excepciones, STL.</td>
+  </tr>
+  <tr>
     <td>🐳 Inception</td>
     <td>Docker / Bash</td>
     <td><a href="https://github.com/Nachopuerto95/inception"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
     <td>Infraestructura desde cero: NGINX, WordPress + php-fpm, MariaDB + servicios bonus.</td>
   </tr>
   <tr>
-    <td>🧠 Módulos C++</td>
-    <td>C++</td>
-    <td><a href="https://github.com/Nachopuerto95/cpp"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
-    <td>Módulos cpp00–cpp08: clases, sobrecarga de operadores, templates, excepciones, STL.</td>
+    <td>💾 Minishell</td>
+    <td>C</td>
+    <td><a href="https://github.com/jpuerto-loruzqui/42Minishell"><img src="https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github" /></a></td>
+    <td>Shell personalizada implementada desde cero.</td>
   </tr>
   <tr>
     <td>🍝 Philosophers</td>
