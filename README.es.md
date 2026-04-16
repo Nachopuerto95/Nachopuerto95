@@ -5,9 +5,9 @@
 
 <!-- Selector de idioma -->
 <p align="center">
-  <a href="/README.es.md"><img src="https://img.shields.io/badge/🇪🇸_Español-6f42c1?style=for-the-badge" alt="Español"/></a>
+  <a href="/README.es.md"><img src="https://img.shields.io/badge/🇪🇸_Leer_en_Español-6f42c1?style=for-the-badge" alt="Leer en Español"/></a>
   &nbsp;
-  <a href="/README.md"><img src="https://img.shields.io/badge/🇬🇧_English-24292e?style=for-the-badge" alt="English"/></a>
+  <a href="/README.md"><img src="https://img.shields.io/badge/🇬🇧_Read_in_English-24292e?style=for-the-badge" alt="Read in English"/></a>
 </p>
 
 <!-- Typing cycler de roles -->
@@ -17,14 +17,18 @@
   </a>
 </p>
 
-<!-- CTA del portfolio -->
+<!-- Portfolio hero (clickable → portfolio) -->
+<p align="center">
+  <a href="https://nachopuertoportfolio.netlify.app/">
+    <img src="assets/portfolio-demo.gif" alt="Demo del Portfolio 2025 — click para visitar" width="720"/>
+  </a>
+</p>
+
 <p align="center">
   <a href="https://nachopuertoportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/🪐%20Visita%20mi%20portfolio-nachopuertoportfolio.netlify.app-6f42c1?style=for-the-badge" alt="Visita mi portfolio"/>
   </a>
 </p>
-
-<!-- TODO: cuando esté grabado, reemplazar el CTA de arriba por un GIF clickable de portfolio2025 (~70% de ancho, centrado) -->
 
 <!-- Estado + contacto -->
 <p align="center">
