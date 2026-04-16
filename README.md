@@ -1,7 +1,5 @@
-<!-- Hero banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=200&section=header&text=Nacho%20Puerto&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founding%20Fullstack%20%26%20AI%20Engineer&descAlignY=62&descSize=20" width="100%"/>
-</p>
+<h1 align="center">👋 Hi, I'm Nacho Puerto</h1>
+<p align="center"><strong>Founding Fullstack &amp; AI Engineer</strong></p>
 
 <!-- Language switcher -->
 <p align="center">
@@ -17,10 +15,10 @@
   </a>
 </p>
 
-<!-- Portfolio hero (clickable → portfolio) -->
+<!-- Portfolio (clickable screenshot → portfolio) -->
 <p align="center">
   <a href="https://nachopuertoportfolio.netlify.app/">
-    <img src="assets/portfolio-demo.gif" alt="Portfolio 2025 demo — click to visit" width="720"/>
+    <img src="assets/portfolio-shot.png" alt="Portfolio 2025 — click to visit" width="500"/>
   </a>
 </p>
 
@@ -41,9 +39,7 @@
   <a href="https://github.com/Nachopuerto95/multilang/blob/main/jose_ignacio_puerto_CV.pdf"><img src="https://img.shields.io/badge/CV-24292e?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
-</p>
+<hr/>
 
 ## 🔭 Currently
 
@@ -57,18 +53,14 @@ Building **[ContestarIA](#)** at **Datista Tech** as the founding engineer — a
 
 <!-- TODO: link ContestarIA / Datista Tech — add public web URLs + GIFs once chosen -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
-</p>
+<hr/>
 
 ## 🏆 Recognition
 
 - 🥇 **#1 of my promotion** at **42 Madrid** (Fundación Telefónica)
 - 🏆 **Fittracker** — selected to represent **Ironhack** at the **International HackShow**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
-</p>
+<hr/>
 
 ## 🛠️ Skills
 
@@ -94,9 +86,7 @@ Building **[ContestarIA](#)** at **Datista Tech** as the founding engineer — a
   <img src="https://img.shields.io/badge/Fly.io-24175B?style=flat&logo=flydotio&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
-</p>
+<hr/>
 
 ## 🌟 Featured projects
 
@@ -180,9 +170,7 @@ Building **[ContestarIA](#)** at **Datista Tech** as the founding engineer — a
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
-</p>
+<hr/>
 
 ## 📟 42 Madrid projects &nbsp;<sub><sup>Low-level · C · C++ · Shell · Docker</sup></sub>
 
@@ -267,9 +255,7 @@ Building **[ContestarIA](#)** at **Datista Tech** as the founding engineer — a
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=120&section=footer" width="100%"/>
-</p>
+<hr/>
 
 <p align="center">
   <sub>Looking for a fullstack / AI engineer? Ping me at <a href="mailto:nachopuerto95@gmail.com">nachopuerto95@gmail.com</a> or on <a href="https://www.linkedin.com/in/nacho-puerto-mendoza/">LinkedIn</a>.</sub>

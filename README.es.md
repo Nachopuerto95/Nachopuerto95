@@ -1,7 +1,5 @@
-<!-- Hero banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=200&section=header&text=Nacho%20Puerto&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founding%20Fullstack%20%26%20AI%20Engineer&descAlignY=62&descSize=20" width="100%"/>
-</p>
+<h1 align="center">👋 Hola, soy Nacho Puerto</h1>
+<p align="center"><strong>Founding Fullstack &amp; AI Engineer</strong></p>
 
 <!-- Selector de idioma -->
 <p align="center">
@@ -17,10 +15,10 @@
   </a>
 </p>
 
-<!-- Portfolio hero (clickable → portfolio) -->
+<!-- Portfolio (captura clickable → portfolio) -->
 <p align="center">
   <a href="https://nachopuertoportfolio.netlify.app/">
-    <img src="assets/portfolio-demo.gif" alt="Demo del Portfolio 2025 — click para visitar" width="720"/>
+    <img src="assets/portfolio-shot.png" alt="Portfolio 2025 — click para visitar" width="500"/>
   </a>
 </p>
 
@@ -41,9 +39,7 @@
   <a href="https://github.com/Nachopuerto95/multilang/blob/main/jose_ignacio_puerto_CV.pdf"><img src="https://img.shields.io/badge/CV-24292e?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
-</p>
+<hr/>
 
 ## 🔭 Ahora mismo
 
@@ -57,18 +53,14 @@ Desarrollando **[ContestarIA](#)** en **Datista Tech** como primer ingeniero —
 
 <!-- TODO: enlazar ContestarIA / Datista Tech — añadir URLs de webs públicas + GIFs cuando se elijan -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
-</p>
+<hr/>
 
 ## 🏆 Reconocimientos
 
 - 🥇 **Primero de mi promoción** en **42 Madrid** (Fundación Telefónica)
 - 🏆 **Fittracker** — seleccionado para representar a **Ironhack** en el **International HackShow**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
-</p>
+<hr/>
 
 ## 🛠️ Stack
 
@@ -94,9 +86,7 @@ Desarrollando **[ContestarIA](#)** en **Datista Tech** como primer ingeniero —
   <img src="https://img.shields.io/badge/Fly.io-24175B?style=flat&logo=flydotio&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
-</p>
+<hr/>
 
 ## 🌟 Proyectos destacados
 
@@ -180,9 +170,7 @@ Desarrollando **[ContestarIA](#)** en **Datista Tech** como primer ingeniero —
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
-</p>
+<hr/>
 
 ## 📟 Proyectos de 42 Madrid &nbsp;<sub><sup>Low-level · C · C++ · Shell · Docker</sup></sub>
 
@@ -267,9 +255,7 @@ Desarrollando **[ContestarIA](#)** en **Datista Tech** como primer ingeniero —
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=120&section=footer" width="100%"/>
-</p>
+<hr/>
 
 <p align="center">
   <sub>¿Buscando un fullstack / AI engineer? Escríbeme a <a href="mailto:nachopuerto95@gmail.com">nachopuerto95@gmail.com</a> o por <a href="https://www.linkedin.com/in/nacho-puerto-mendoza/">LinkedIn</a>.</sub>
