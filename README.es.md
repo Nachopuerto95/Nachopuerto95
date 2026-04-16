@@ -47,7 +47,7 @@
 
 ## 🔭 Ahora mismo
 
-Desarrollando **[Contestaria](#)** en **Datista Tech** como primer ingeniero — un producto de voz-IA en tiempo real sobre telefonía SIP. De cero a producción:
+Desarrollando **[ContestarIA](#)** en **Datista Tech** como primer ingeniero — un producto de voz-IA en tiempo real sobre telefonía SIP. De cero a producción:
 
 - 🐍 **Backend** — Python + **FastAPI**, PostgreSQL, workers asíncronos con Celery + Redis.
 - ⚛️ **Frontend** — React + TypeScript: dashboards, widgets embebibles y webs públicas.
@@ -55,7 +55,7 @@ Desarrollando **[Contestaria](#)** en **Datista Tech** como primer ingeniero —
 - 🐳 **Infra** — Docker multi-servidor, red privada con WireGuard y observabilidad completa (**Prometheus + Grafana + Loki + Alertmanager** con alertas a Telegram).
 - 🤖 **Automatización interna** — n8n + Claude + APIs de OpenAI para optimizar procesos del equipo y de la operativa.
 
-<!-- TODO: enlazar Contestaria / Datista Tech — añadir URLs de webs públicas + GIFs cuando se elijan -->
+<!-- TODO: enlazar ContestarIA / Datista Tech — añadir URLs de webs públicas + GIFs cuando se elijan -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
@@ -64,7 +64,7 @@ Desarrollando **[Contestaria](#)** en **Datista Tech** como primer ingeniero —
 ## 🏆 Reconocimientos
 
 - 🥇 **Primero de mi promoción** en **42 Madrid** (Fundación Telefónica)
-- 🏆 **Fittracker** — seleccionado para representar a 42 Madrid en el **International HackShow**
+- 🏆 **Fittracker** — seleccionado para representar a **Ironhack** en el **International HackShow**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
@@ -106,7 +106,7 @@ Desarrollando **[Contestaria](#)** en **Datista Tech** como primer ingeniero —
   <tr>
     <td width="42%"><img src="assets/fittracker.gif" width="100%"/></td>
     <td width="58%">
-      App fullstack para registrar entrenamientos y comidas en el mismo dashboard. Seleccionado por 42 Madrid para representar a la escuela en el International HackShow.
+      App fullstack para registrar entrenamientos y comidas en el mismo dashboard. Seleccionado por Ironhack para representar al bootcamp en el International HackShow.
       <br><br>
       <strong>Stack:</strong> React · Vite · Node + Express · MongoDB · Fly.io
       <br><br>

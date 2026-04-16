@@ -47,7 +47,7 @@
 
 ## 🔭 Currently
 
-Building **[Contestaria](#)** at **Datista Tech** as the founding engineer — a real-time voice AI product running over SIP telephony. From zero to production:
+Building **[ContestarIA](#)** at **Datista Tech** as the founding engineer — a real-time voice AI product running over SIP telephony. From zero to production:
 
 - 🐍 **Backend** — Python + **FastAPI**, PostgreSQL, async workers with Celery + Redis.
 - ⚛️ **Frontend** — React + TypeScript: dashboards, embeddable widgets and public sites.
@@ -55,7 +55,7 @@ Building **[Contestaria](#)** at **Datista Tech** as the founding engineer — a
 - 🐳 **Infra** — multi-server Docker, private network over WireGuard, observability stack (**Prometheus + Grafana + Loki + Alertmanager** with Telegram alerts).
 - 🤖 **Internal automation** — n8n + Claude + OpenAI APIs to optimise team and ops workflows.
 
-<!-- TODO: link Contestaria / Datista Tech — add public web URLs + GIFs once chosen -->
+<!-- TODO: link ContestarIA / Datista Tech — add public web URLs + GIFs once chosen -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
@@ -64,7 +64,7 @@ Building **[Contestaria](#)** at **Datista Tech** as the founding engineer — a
 ## 🏆 Recognition
 
 - 🥇 **#1 of my promotion** at **42 Madrid** (Fundación Telefónica)
-- 🏆 **Fittracker** — selected to represent 42 Madrid at the **International HackShow**
+- 🏆 **Fittracker** — selected to represent **Ironhack** at the **International HackShow**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=6f42c1&height=2" width="100%"/>
@@ -106,7 +106,7 @@ Building **[Contestaria](#)** at **Datista Tech** as the founding engineer — a
   <tr>
     <td width="42%"><img src="assets/fittracker.gif" width="100%"/></td>
     <td width="58%">
-      Full-stack app to log workouts and meals on the same dashboard. Selected by 42 Madrid to represent the school at the International HackShow.
+      Full-stack app to log workouts and meals on the same dashboard. Selected by Ironhack to represent the bootcamp at the International HackShow.
       <br><br>
       <strong>Stack:</strong> React · Vite · Node + Express · MongoDB · Fly.io
       <br><br>
