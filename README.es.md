@@ -117,8 +117,7 @@ Desarrollando **[Contestaria](#)** en **Datista Tech** como primer ingeniero —
 <table width="100%">
   <tr>
     <td width="42%">
-      <!-- TODO: añadir GIF de demo de gymtrackerv2 (builder de rutinas + tracker en sesión) -->
-      <img src="assets/fittracker.gif" width="100%"/>
+      <img src="https://github.com/Nachopuerto95/gymtrackerv2/blob/main/assets/gym-demo.gif?raw=true" width="100%"/>
     </td>
     <td width="58%">
       Evolución de Fittracker centrada en el flujo de gimnasio. Builder de rutinas drag-and-drop, tracker en sesión con peso/series/repes y calendario de histórico.

@@ -117,8 +117,7 @@ Building **[Contestaria](#)** at **Datista Tech** as the founding engineer — a
 <table width="100%">
   <tr>
     <td width="42%">
-      <!-- TODO: add gymtrackerv2 demo GIF (routine builder + in-session tracker) -->
-      <img src="assets/fittracker.gif" width="100%"/>
+      <img src="https://github.com/Nachopuerto95/gymtrackerv2/blob/main/assets/gym-demo.gif?raw=true" width="100%"/>
     </td>
     <td width="58%">
       Evolution of Fittracker, rebuilt around the gym flow. Drag-and-drop routine builder, in-session tracker with set/rep/weight logging and a history calendar.
