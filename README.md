@@ -258,5 +258,5 @@ Building **[ContestarIA](#)** at **Datista Tech** as the founding engineer — a
 <hr/>
 
 <p align="center">
-  <sub>Looking for a fullstack / AI engineer? Ping me at <a href="mailto:nachopuerto95@gmail.com">nachopuerto95@gmail.com</a> or on <a href="https://www.linkedin.com/in/nacho-puerto-mendoza/">LinkedIn</a>.</sub>
+  <sub>Looking for a fullstack engineer? Ping me at <a href="mailto:nachopuerto95@gmail.com">nachopuerto95@gmail.com</a> or on <a href="https://www.linkedin.com/in/nacho-puerto-mendoza/">LinkedIn</a>.</sub>
 </p>

@@ -258,5 +258,5 @@ Desarrollando **[ContestarIA](#)** en **Datista Tech** como primer ingeniero —
 <hr/>
 
 <p align="center">
-  <sub>¿Buscando un fullstack / AI engineer? Escríbeme a <a href="mailto:nachopuerto95@gmail.com">nachopuerto95@gmail.com</a> o por <a href="https://www.linkedin.com/in/nacho-puerto-mendoza/">LinkedIn</a>.</sub>
+  <sub>¿Buscando un fullstack engineer? Escríbeme a <a href="mailto:nachopuerto95@gmail.com">nachopuerto95@gmail.com</a> o por <a href="https://www.linkedin.com/in/nacho-puerto-mendoza/">LinkedIn</a>.</sub>
 </p>
