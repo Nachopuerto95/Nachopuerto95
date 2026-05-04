@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Nacho Puerto</h1>
-<p align="center"><strong>Founding Fullstack Engineer</strong></p>
+<p align="center"><strong>oftware Engineer · C/C++ · Fullstack · Systems</strong></p>
 
 <!-- Language switcher -->
 <p align="center">
