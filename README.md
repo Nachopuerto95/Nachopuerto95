@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Nacho Puerto</h1>
-<p align="center"><strong>oftware Engineer · C/C++ · Fullstack · Systems</strong></p>
+<p align="center"><strong>Software Engineer · C/C++ · Fullstack · Systems</strong></p>
 
 <!-- Language switcher -->
 <p align="center">
@@ -11,7 +11,7 @@
 <!-- Typing role cycler -->
 <p align="center">
   <a href="https://github.com/Nachopuerto95">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6f42c1&center=true&vCenter=true&width=640&lines=Founding+Fullstack+Engineer+%40+Datista+Tech;Building+real-time+voice+AI+products;%231+of+my+42+Madrid+cohort;Python+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+C%2B%2B+%E2%80%A2+Docker" alt="Role cycler"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6f42c1&center=true&vCenter=true&width=640&lines=Software+Engineer+%7C+C%2FC%2B%2B+%C2%B7+Fullstack+%C2%B7+Systems;Building+real-time+systems+from+scratch+to+production;%231+of+my+42+Madrid+cohort;Node.js+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+C%2B%2B+%E2%80%A2+Docker" alt="Role cycler"/>
   </a>
 </p>
 
@@ -258,5 +258,5 @@ Building **[ContestarIA](#)** at **Datista Tech** as the founding engineer — a
 <hr/>
 
 <p align="center">
-  <sub>Looking for a fullstack engineer? Ping me at <a href="mailto:nachopuerto95@gmail.com">nachopuerto95@gmail.com</a> or on <a href="https://www.linkedin.com/in/nacho-puerto-mendoza/">LinkedIn</a>.</sub>
+  <sub>Looking for a software engineer? Ping me at <a href="mailto:nachopuerto95@gmail.com">nachopuerto95@gmail.com</a> or on <a href="https://www.linkedin.com/in/nacho-puerto-mendoza/">LinkedIn</a>.</sub>
 </p>

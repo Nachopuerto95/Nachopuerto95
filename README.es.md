@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Nacho Puerto</h1>
-<p align="center"><strong>Founding Fullstack Engineer</strong></p>
+<p align="center"><strong>Software Engineer · C/C++ · Fullstack · Systems</strong></p>
 
 <!-- Selector de idioma -->
 <p align="center">
@@ -11,7 +11,7 @@
 <!-- Typing cycler de roles -->
 <p align="center">
   <a href="https://github.com/Nachopuerto95">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6f42c1&center=true&vCenter=true&width=640&lines=Founding+Fullstack+Engineer+en+Datista+Tech;Construyendo+productos+de+voz-IA+en+tiempo+real;Primero+de+mi+promoci%C3%B3n+en+42+Madrid;Python+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+C%2B%2B+%E2%80%A2+Docker" alt="Cycler de roles"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6f42c1&center=true&vCenter=true&width=640&lines=Software+Engineer+%7C+C%2FC%2B%2B+%C2%B7+Fullstack+%C2%B7+Systems;Sistemas+en+producci%C3%B3n+de+cero+a+cien;Primero+de+mi+promoci%C3%B3n+en+42+Madrid;Node.js+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+C%2B%2B+%E2%80%A2+Docker" alt="Cycler de roles"/>
   </a>
 </p>
 
@@ -258,5 +258,5 @@ Desarrollando **[ContestarIA](#)** en **Datista Tech** como primer ingeniero —
 <hr/>
 
 <p align="center">
-  <sub>¿Buscando un fullstack engineer? Escríbeme a <a href="mailto:nachopuerto95@gmail.com">nachopuerto95@gmail.com</a> o por <a href="https://www.linkedin.com/in/nacho-puerto-mendoza/">LinkedIn</a>.</sub>
+  <sub>¿Buscando un software engineer? Escríbeme a <a href="mailto:nachopuerto95@gmail.com">nachopuerto95@gmail.com</a> o por <a href="https://www.linkedin.com/in/nacho-puerto-mendoza/">LinkedIn</a>.</sub>
 </p>
